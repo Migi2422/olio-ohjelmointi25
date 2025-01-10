@@ -7,7 +7,7 @@ int main(){
     cout << "*****Arvauspeli*****" << endl;
     cout << "laita jokin luku ylarajaksi" << endl;
     cin >> ylaraja;
-    cout << "arvaa luku 1 - " << ylaraja << endl;
+    cout << "arvaappa luku 1 - " << ylaraja << endl;
     arvauspeli(ylaraja);
 
 
