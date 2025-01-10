@@ -1,2 +1,0 @@
-tht1_25/build
-tht1_25/*.user
