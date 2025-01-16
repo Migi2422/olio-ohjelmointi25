@@ -5,11 +5,8 @@ using namespace std;
 
 int main()
 {
-    int maxnum;
-    cout << "enter limit number " << endl;
-    cin >> maxnum;
-    cout << "guess the number between 1-" << maxnum << endl;
-    Game olio(maxnum);
+
+    Game olio;
     olio.play();
     return 0;
 
